@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Lance👋</h1>
-<h3 align="center">IT @ UCF | Cybersecurity Engineer | Software Engineer | Systems and Support Professional</h3>
+<h3 align="center">IT @ UCF | Cybersecurity Engineer | Software Engineer</h3>
 
 ---
 
