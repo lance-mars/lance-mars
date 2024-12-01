@@ -6,7 +6,7 @@
 ### 🧑‍💻 About Me
 
 - 🎓 **IT Student** at the University of Central Florida.
-- 🔒 Passionate about **Cybersecurity**, ethical hacking, and system optimization.
+- 🔒 Passionate about Cybersecurity, ethical hacking, and system optimization.
 - 🛠️ Developer of tools like my **[Vulnerability Scanner](https://github.com/lance-mars/vulnerability-scanner)**.
 - 📚 Always learning—currently working on my **CompTIA A+ Certification** and exploring new tools to enhance system security.
 
