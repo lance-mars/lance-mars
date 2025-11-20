@@ -7,7 +7,7 @@
 
 - 🎓 **Cybersecurity Student** at Western Governers Univserity.
 - 🔒 Passionate about cybersecurity, ethical hacking, and system optimization.
-- 📚 Always learning—currently working on my **CompTIA Security+ Certification**.
+- 📚 Always learning. Currently working on my **CompTIA Security+ Certification**.
 I love solving complex technical challenges and collaborating with others to build secure, scalable systems. [Let’s connect!](https://www.linkedin.com/in/lance-mars/)
 
 ---
