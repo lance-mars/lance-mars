@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Lance👋</h1>
-<h3 align="center">Cyber Security @ WGU | Aspiring Security Engineer | Building Hands-On Projects with Python</h3>
+<h3 align="center">Cybersecurity Student @ WGU | Aspiring Security Engineer | Building Hands-On Projects with Python</h3>
 
 ---
 
