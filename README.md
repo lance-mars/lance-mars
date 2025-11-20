@@ -6,9 +6,9 @@
 ### 🧑‍💻 About Me
 
 - 🎓 I am currently studying for a **Cybersecurity and Information Assurance Degree** at Western Governors University.
-- 📖 Previously I have studied IT and CS for 3 years at the University of Central Florida.
-- 🔒 Passionate about cybersecurity, ethical hacking, and system optimization.
-- 📚 Always learning. Currently working on my **CompTIA Security+ Certification**.
+- 📖 I have previously studied IT and CS for 3 years at the University of Central Florida.
+- 🔒 I am very passionate about cybersecurity, ethical hacking, and system optimization.
+- 📚 I am currently working on my **CompTIA Security+ Certification** to expand my knowledge of the field.
 
 I love solving complex technical challenges and collaborating with others to build secure, scalable systems. [Let’s connect!](https://www.linkedin.com/in/lance-mars/)
 
