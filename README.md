@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Lance👋</h1>
-<h3 align="center">IT @ UCF | Aspiring Cloud Engineer | Building Hands-On Projects in AWS, Linux & Automation</h3>
+<h3 align="center">Cyber Security @ WGU | Aspiring Security Engineer | Building Hands-On Projects with Python</h3>
 
 ---
 
