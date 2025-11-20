@@ -72,6 +72,6 @@ I love solving complex technical challenges and collaborating with others to bui
 ---
 
 ### 📫 Let’s Connect!
-- 📧 **Email**: [lancemars@pm.me](mailto:lancemars@pm.me)
+- 📧 **Email**: [career@lance.contact](mailto:lancemars@pm.me)
 - 🌐 **LinkedIn**: [lance-mars](https://www.linkedin.com/in/lance-mars/)
 - 📂 **Portfolio**: [Coming Soon!]
