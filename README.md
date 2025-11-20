@@ -58,9 +58,9 @@ I love solving complex technical challenges and collaborating with others to bui
 ---
 
 ### 🚀 Projects
-- 🔗 **[Vulnerability Scanner](https://github.com/lance-mars/vulnerability-scanner)**: A Python-based tool for identifying and categorizing web vulnerabilities like SQL injection, XSS, and command injection.
-- 💡 **Custom PC Build**: Designed and assembled a custom desktop, optimizing hardware configuration for performance and reliability.
-- 🌐 **Secure Home Network Setup**: Configured a secure home office network with robust WPA2 encryption and DHCP settings.
+- 🔗 
+- 💡 
+- 🌐
 
 ---
 
