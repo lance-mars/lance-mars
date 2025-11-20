@@ -5,8 +5,8 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 **Cybersecurity Student** at Western Governors University.
-- 📖 3 years of study at UCF for IT and CS.
+- 🎓 I am currently studying for a **Cybersecurity and Information Assurance Degree** at Western Governors University.
+- 📖 Previously I have studied IT and CS for 3 years at the University of Central Florida.
 - 🔒 Passionate about cybersecurity, ethical hacking, and system optimization.
 - 📚 Always learning. Currently working on my **CompTIA Security+ Certification**.
 
